@@ -1,0 +1,32 @@
+@import "озеросфорелью.css";
+p, ul {color: #020c00;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #662424;
+    font-size: 28px; 
+}
+
+li {
+    float: left;
+    border-right: 2px solid #dadada;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: right;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.svatievolinki {
+    background-color: #467fe9;
+}
+
+li a:hover {
+    background-color: #80400c;
+}
